@@ -1,12 +1,12 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'The College Grind'
+description: 'The College Grind is a college success blog to help student in their academic journy.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+baseurl: ''
+disqus: 'collegegrind'
+email: 'collegegrindblog@gmail.com'
+mailchimp-list: 'https://CollegeGrind.us20.list-manage.com/subscribe/post?u=2e59aa8db06c2223c5ca2ee81&amp;id=38c36d10b1'
 
 include: ["_pages"]
 permalink: /:title/
@@ -34,6 +34,14 @@ authors:
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
+
+    salah:
+      name:           Salah
+      site:           https://www.salahassana.com
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Blogger, researcher, love to explore new ideas and share what I learn!"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/SalahAssana
  
 # Defaults
 defaults:
